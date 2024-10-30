@@ -20,5 +20,5 @@ This repository contains various public datasets related to Minnesota data but i
      
 ## Usage
 
-By converting these data sets to a csv format, programs like R and Python are able to pull the data directly into applications.
+By converting these data sets to a csv format, programs like R and Python are able to pull the data directly into applications.  
 Each respective department was reached out to to make sure it is okay to redisplay the data in a more friendly format. 
