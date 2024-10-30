@@ -1,6 +1,6 @@
 # data_publicFederal Repository
 
-This repository contains various public datasets related to Minnesota data but is found at Federal Agencies such as the Census Bureau and CDC.
+This repository contains various public datasets related to Minnesota data but is steward by Federal Agencies such as the Census Bureau and CDC.
    - Just like everything on the internet, links can eventually become outdated or broken.
       - If any of the links stop workinging please submit an issue. 
    - My hope is that all Federal agencies and Federal data is stored like the Census Bureau API. The Census Bureau API can be pulled directly into R and Python without the need for an access token.
